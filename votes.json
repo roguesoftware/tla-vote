@@ -1,0 +1,23 @@
+[
+    {
+        "context": "story",
+        "context_id": "50977864-11bf-40fc-b75a-4df68840618a",
+        "user_id": "190f3c8a-6b2b-47f1-a018-1fd09b29be0e",
+        "value": "1"
+    }, {
+        "context": "story",
+        "context_id": "50977864-11bf-40fc-b75a-4df68840618a",
+        "user_id": "2273b105-ad44-490c-9db5-4fcebd81523b",
+        "value": "1"
+    }, {
+        "context": "story",
+        "context_id": "1032a562-9697-472b-bafa-33ee27bdd662",
+        "user_id": "190f3c8a-6b2b-47f1-a018-1fd09b29be0e",
+        "value": "-1"
+    }, {
+        "context": "story",
+        "context_id": "1032a562-9697-472b-bafa-33ee27bdd662",
+        "user_id": "516f8474-cb23-43e2-807b-83f47a6979b0",
+        "value": "1"
+    }
+]
